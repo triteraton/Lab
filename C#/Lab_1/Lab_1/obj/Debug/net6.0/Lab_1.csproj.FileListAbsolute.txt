@@ -1,0 +1,15 @@
+E:\3_kyrse\C_sharp\Lab_1\Lab_1\bin\Debug\net6.0\Lab_1.exe
+E:\3_kyrse\C_sharp\Lab_1\Lab_1\bin\Debug\net6.0\Lab_1.deps.json
+E:\3_kyrse\C_sharp\Lab_1\Lab_1\bin\Debug\net6.0\Lab_1.runtimeconfig.json
+E:\3_kyrse\C_sharp\Lab_1\Lab_1\bin\Debug\net6.0\Lab_1.dll
+E:\3_kyrse\C_sharp\Lab_1\Lab_1\bin\Debug\net6.0\Lab_1.pdb
+E:\3_kyrse\C_sharp\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.csproj.AssemblyReference.cache
+E:\3_kyrse\C_sharp\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\3_kyrse\C_sharp\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.AssemblyInfoInputs.cache
+E:\3_kyrse\C_sharp\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.AssemblyInfo.cs
+E:\3_kyrse\C_sharp\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.csproj.CoreCompileInputs.cache
+E:\3_kyrse\C_sharp\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.dll
+E:\3_kyrse\C_sharp\Lab_1\Lab_1\obj\Debug\net6.0\refint\Lab_1.dll
+E:\3_kyrse\C_sharp\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.pdb
+E:\3_kyrse\C_sharp\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.genruntimeconfig.cache
+E:\3_kyrse\C_sharp\Lab_1\Lab_1\obj\Debug\net6.0\ref\Lab_1.dll
